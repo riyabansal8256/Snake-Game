@@ -172,8 +172,6 @@ def main():
                 s.reset((10,10))
                 break
         redrawWindow(win)
-    
     pass
 
 main()
-
